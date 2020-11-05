@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: bisque;
+}
+
+.tim {
+  padding: 30px;
+  border-radius: 30px;
+  margin: 30px;
+}
+
+.banner {
+  height: 200px;
+  padding: 30px;
+  border-radius: 30px;
+  margin: 30px;
+  background-image: url("https://i.ibb.co/cbmdPsw/banner.png");
+  background-size: cover;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.sidenav li > a {
+  color: white;
+}
+
+.info {
+  text-align: center;
+}
+
+.tombol {
+  border-radius: 30px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.awalan {
+  font-size: 18px;
+  padding: 0 20px;
+}
