@@ -1,2 +1,3 @@
-# pwa-dicoding
-Submission project di kelas PWA Dicoding
+# Footballin: Football Information
+
+Submission project terakhir di kelas Membangun Progressive Web Apps Dicoding
